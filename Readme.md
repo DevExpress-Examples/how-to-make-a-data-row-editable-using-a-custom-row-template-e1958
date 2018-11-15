@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/DXGridTest/Window1.xaml) (VB: [Window1.xaml](./VB/DXGridTest/Window1.xaml))
+* [Window1.xaml.cs](./CS/DXGridTest/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DXGridTest/Window1.xaml))
+<!-- default file list end -->
 # How to make a data row editable using a custom row template
 
 
